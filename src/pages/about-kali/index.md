@@ -18,7 +18,7 @@ The most popular American movie that features kali heavily is <a href="https://w
 
 If you want to see something a little more representative of training, hop onto <a href="https://www.youtube.com/" target="_blank" rel="noopener noreferrer">YouTube</a> and do a search for "kali training" or "kali fighting" and you'll find a wealth of videos of people with varying skill levels hitting each other with sticks and doing knife disarms and all kinds of things.
 
-[![Training Kali in the Philippines](http://img.youtube.com/vi/DjRdg7rbUpE/0.jpg)](http://www.youtube.com/watch?v=DjRdg7rbUpE "Training Kali in the Philippines")
+[![Training Kali in the Philippines](https://img.youtube.com/vi/DjRdg7rbUpE/0.jpg)](http://www.youtube.com/watch?v=DjRdg7rbUpE "Training Kali in the Philippines")
 
 ### Can I Fight with It?
 Kali is a tribal art and has gone through and continues to go through evolutions.  There's no emphasis on handing down "traditional kali" techniques that are hundreds of years old.  There is a strong emphasis on experimentation, adaptation, testing, and sparring.  As a result, kali has adapted well to modern combat realities and is used successfully by both military and law enforcement personnel.
