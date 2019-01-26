@@ -11,8 +11,6 @@ tags:
 ---
 ![Children fighting in a river](/img/children-fighting-in-river.jpg)
 
-## The Harsh Truths of Second Grade
-
 When I was in second grade, I took taekwondo lessons at the YMCA.
 
 After a few lessons, my second-grade self was pretty sure he knew how to handle the bullies and school, and so I proudly told one of the big kids in my class that I knew karate (I didn't even know it wasn't karate at the time) and he'd better be careful around me.  That kid then proceeded to knock me around like a beanbag.
