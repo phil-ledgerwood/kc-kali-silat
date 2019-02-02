@@ -3,6 +3,7 @@ templateKey: blog-post
 title: Martial Arts Training and Real Fighting
 date: 2019-01-26T16:30:48.912Z
 description: A look at what we do in class and how it relates to being in an actual fight
+thumbnail: /img/children-fighting-in-river.jpg
 tags:
   - training
   - realism
