@@ -23,7 +23,7 @@ The most popular movies that feature silat heavily are <a href="https://www.imdb
 
 If you want to see something a little more representative of training, hop onto <a href="https://www.youtube.com/" target="_blank" rel="noopener noreferrer">YouTube</a> and do a search for "silat training" or "silat fighting" and you'll find a wealth of videos of people with varying skill levels hitting and kicking each other and doing forms and all kinds of things.
 
-[![SILAT OPEN CIRCLE : "SBL At The Martial Arts Show 2012" Birmingham](https://img.youtube.com/vi/2nB8T4ha_30/0.jpg)](https://www.youtube.com/watch?v=2nB8T4ha_30 "SILAT OPEN CIRCLE : "SBL At The Martial Arts Show 2012" Birmingham")
+[![SILAT OPEN CIRCLE : SBL At The Martial Arts Show 2012 Birmingham](https://img.youtube.com/vi/2nB8T4ha_30/0.jpg)](https://www.youtube.com/watch?v=2nB8T4ha_30 "SILAT OPEN CIRCLE : SBL At The Martial Arts Show 2012 Birmingham")
 
 ### Can I Fight with It?
 Silat is a tribal art that is trained in Indonesian villages to this day.  It was created to respond to things like village raids, ambushes, and even large animals.  Because of this, it's designed to get new people into fighting capacity quickly and dealing with larger threats in a chaotic context.  This makes it very well suited for modern self-defense needs.
