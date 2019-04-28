@@ -7,7 +7,7 @@ title: About Our Group
 Our group practices the Filipino martial art of kali and the Indonesian martial art of silat.  Check out the [About Kali](/about-kali) and [About Silat](/about-silat) pages for more specifics about those arts.
 
 ### Where and When?
-We currently meet every Thursday night from 7-8pm at:
+We currently meet every Tuesday night from 7-8pm at:
 
 [Welcome Mat Training Center](http://welcomemattrainingcenter.com/)
 10950 W 74th Ter, Shawnee KS 66203
