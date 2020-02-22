@@ -13,7 +13,7 @@ If you want to stick with it (no pun intended), you'll eventually want to get yo
 - Boxing gloves (16 oz. is best)
 - MMA gloves
 - Training bolo
-- Protective sparring headgear (preferably with a level of face protection - fencing headger also works)
+- Protective sparring headgear (preferably with a level of face protection - fencing headgear also works)
 - Groin protector
 - Water bottle
 - Notebook and pen
@@ -21,7 +21,7 @@ If you want to stick with it (no pun intended), you'll eventually want to get yo
 ### Where Do I Get This Stuff?
 Well, some of it is a little more common than others.
 
-In the Kansas City area, there's [Oddessy Martial Arts Supply](http://oddessy.com/) over in Raytown if you want to buy the gear in person.  You might check with them before going over there to make sure they have what you want in stock.
+In the Kansas City area, there's [Oddessy Martial Arts Supply](http://oddessy.com/) over in Raytown if you want to buy the gear in person.  You might check with them before going over there to make sure they have what you want in stock.  A number of things can also be purchased at sporting goods stores.
 
 Online, you can buy virtually all of these things from [Amazon](https://amzn.to/2AVt5WJ), which is where I go to buy the basic protective gear.  I personally prefer the Everlast brand of gear.
 
