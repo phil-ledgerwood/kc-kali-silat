@@ -14,6 +14,7 @@ export default class IndexPage extends React.Component {
           <div className="container">
             <div className="content">
               <h1 className="has-text-weight-bold is-size-2">Kansas City Kali and Silat</h1>
+              <h2>To help slow the spread of COVID-19, our class has been cancelled until Apr. 24.  Video lessons will be posted at <a href="https://www.facebook.com/attwelcomemat/">the American Top Team Welcome Mat Facebook page</a>.</h2>
               <p>Welcome to the site of Kansas City's premiere tribe learning the southeast Asian arts of kali and silat.</p>
               <p>We are currently meeting Tuesday nights from 8pm to 9pm at:</p>
               <address>
