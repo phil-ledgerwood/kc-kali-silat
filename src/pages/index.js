@@ -18,11 +18,11 @@ export default class IndexPage extends React.Component {
               <p>We are currently meeting Tuesday nights from 8pm to 9pm at:</p>
               <address>
                 <a href="http://welcomemattrainingcenter.com/" target="_blank" rel="noopener noreferrer">Welcome Mat Training Center</a><br />
-                10950 W 74th Ter, Shawnee KS 66203<br />
+                2115 E Kansas City Rd, Olathe, KS 66061<br />
                 Phone: (913) 353-5858<br />
                 Email: <a href="mailto:info@welcomemattrainingcenter.com">info@welcomemattrainingcenter.com</a>
               </address>
-              <p>The gym is in the middle of a shopping center and right next door to the <a href="https://www.phogoodkc.com/" target="_blank" rel="noopener noreferrer">Pho Good</a> restaurant.</p>
+              <p>The gym is inside of Homefield Olathe.  Go in the front door and go to your right (toward the blue wall) and follow that wall till you get to our front desk.</p>
               <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3100.9091375302246!2d-94.71462388431289!3d38.99457004881492!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c094b320683a8d%3A0x924e2df1fafca592!2sWelcome%20Mat%20Training%20Center!5e0!3m2!1sen!2sus!4v1582994392481!5m2!1sen!2sus" width="600" height="450" frameborder="0" style={{ border: '0' }} allowfullscreen=""></iframe>
             </div>
           </div>
