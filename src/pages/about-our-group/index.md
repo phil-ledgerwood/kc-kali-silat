@@ -9,13 +9,14 @@ Our group practices the Filipino martial art of kali and the Indonesian martial 
 ### Where and When?
 We currently meet every Tuesday night from 8-9pm at:
 
-[Welcome Mat Training Center](http://welcomemattrainingcenter.com/)
-10950 W 74th Ter, Shawnee KS 66203
+[American Top Team Welcome Mat](http://welcomemattrainingcenter.com/)
+In the Homefield Olathe building at:
+2115 E Kansas City Rd, Olathe, KS 66061
 Phone: (913) 353-5858
 Email: [info@welcomemattrainingcenter.com]("mailto:info@welcomemattrainingcenter.com")
 
 ### How Much Does It Cost?
-The Welcome Mat Training Center currently offers unlimited classes and gym access for $85/mo. or single classes for $15 per attendance.  So, if you only wanted to come to our class, it would be about $60/mo.  There are no contracts of any kind.
+Welcome Mat currently offers unlimited classes and gym access for $85/mo. or single classes for $15 per attendance.  So, if you only wanted to come to our class, it would be about $60/mo.  There are no contracts of any kind.
 
 ### Who Can Come?
 Both kali and silat are tribal/family arts and, as a result, take into account a wide variety of ages and fitness levels and assume no starting experience.

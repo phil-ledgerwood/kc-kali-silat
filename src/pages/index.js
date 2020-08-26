@@ -17,7 +17,7 @@ export default class IndexPage extends React.Component {
               <p>Welcome to the site of Kansas City's premiere tribe learning the southeast Asian arts of kali and silat.</p>
               <p>We are currently meeting Tuesday nights from 8pm to 9pm at:</p>
               <address>
-                <a href="http://welcomemattrainingcenter.com/" target="_blank" rel="noopener noreferrer">Welcome Mat Training Center</a><br />
+                <a href="http://welcomemattrainingcenter.com/" target="_blank" rel="noopener noreferrer">American Top Team Welcome Mat</a><br />
                 2115 E Kansas City Rd, Olathe, KS 66061<br />
                 Phone: (913) 353-5858<br />
                 Email: <a href="mailto:info@welcomemattrainingcenter.com">info@welcomemattrainingcenter.com</a>
