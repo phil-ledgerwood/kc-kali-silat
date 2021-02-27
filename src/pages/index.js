@@ -15,7 +15,7 @@ export default class IndexPage extends React.Component {
             <div className="content">
               <h1 className="has-text-weight-bold is-size-2">Kansas City Kali and Silat</h1>
               <p>Welcome to the site of Kansas City's premiere tribe learning the southeast Asian arts of kali and silat.</p>
-              <p>We are currently meeting Tuesday nights from 8pm to 9pm at:</p>
+              <p>We are currently meeting Monday nights from 7pm to 8pm at:</p>
               <address>
                 <a href="http://welcomemattrainingcenter.com/" target="_blank" rel="noopener noreferrer">American Top Team Welcome Mat</a><br />
                 2115 E Kansas City Rd, Olathe, KS 66061<br />

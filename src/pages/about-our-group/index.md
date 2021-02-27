@@ -7,7 +7,7 @@ title: About Our Group
 Our group practices the Filipino martial art of kali and the Indonesian martial art of silat.  Check out the [About Kali](/about-kali) and [About Silat](/about-silat) pages for more specifics about those arts.
 
 ### Where and When?
-We currently meet every Tuesday night from 8-9pm at:
+We currently meet every Monday night from 7-8pm at:
 
 [American Top Team Welcome Mat](http://welcomemattrainingcenter.com/)
 In the Homefield Olathe building at:
