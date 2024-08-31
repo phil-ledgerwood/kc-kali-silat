@@ -15,15 +15,16 @@ export default class IndexPage extends React.Component {
             <div className="content">
               <h1 className="has-text-weight-bold is-size-2">Kansas City Kali and Silat</h1>
               <p>Welcome to the site of Kansas City's premiere tribe learning the southeast Asian arts of kali and silat.</p>
-              <p>We are currently meeting Monday nights from 7pm to 8pm at:</p>
+              <p>We are currently meeting Monday nights from 7pm to 8pm in the gym at:</p>
               <address>
-                <a href="http://welcomemattrainingcenter.com/" target="_blank" rel="noopener noreferrer">American Top Team Welcome Mat</a><br />
-                2115 E Kansas City Rd, Olathe, KS 66061<br />
+                <a href="https://welcomematgym.com/" target="_blank" rel="noopener noreferrer">Welcome Mat Martial Arts</a><br />
+                Salvation Army Olathe Corps Community Center<br />
+                420 E Santa Fe St, Olathe, KS 66061<br />
                 Phone: (913) 353-5858<br />
-                Email: <a href="mailto:info@welcomemattrainingcenter.com">info@welcomemattrainingcenter.com</a>
+                Email: <a href="mailto:info@welcomematgym.com">info@welcomematgym.com</a>
               </address>
-              <p>The gym is inside of Homefield Olathe.  Go in the front door and go to your right (toward the blue wall) and follow that wall till you get to our front desk.</p>
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3100.9091375302246!2d-94.71462388431289!3d38.99457004881492!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c094b320683a8d%3A0x924e2df1fafca592!2sWelcome%20Mat%20Training%20Center!5e0!3m2!1sen!2sus!4v1582994392481!5m2!1sen!2sus" width="600" height="450" frameborder="0" style={{ border: '0' }} allowfullscreen=""></iframe>
+              <p>The gym is inside of the Salvation Army Community Center.  Go in the front door. On your right (toward the blue wall) will be our front desk person.  If no one is there, go forward a bit, and a hall to your left will take you to the restrooms (these will be visible) and the gym is just past them.</p>
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3105.7539435371473!2d-94.81762902365541!3d38.88387104750167!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c0bdfebab642a5%3A0xd17d520ee246ac9f!2sSalvation%20Army%20Olathe%20Corps%20Community%20Centers!5e0!3m2!1sen!2sus!4v1725121671925!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
           </div>
         </section>
